@@ -1,2 +1,2 @@
 # hello-world
-greetings
+i want to learn python
